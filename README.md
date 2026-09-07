@@ -21,25 +21,11 @@
 </h3>
 
 <table>
-  <tr>
-    <td valign="top">
-      <img
-        src="./avi-ascii.svg"
-        width="370"
-        alt="ASCII portrait"
-      >
-    </td>
-
-    <td valign="top">
-      <img
-        src="./info-card.svg"
-        width="490"
-        alt="Terminal information card"
-      >
-    </td>
-  </tr>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait"></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Terminal information card"></td>
+</tr>
 </table>
-
 <br>
 
 <h3>
