@@ -19,7 +19,7 @@
   <text x="76" y="22"
         font-family="monospace"
         font-size="12"
-        fill="#8b949e">munazimbhat@github</text>
+        fill="#8b949e">munazimashraf@github</text>
 
 
   <text x="34" y="48"
@@ -28,7 +28,7 @@
         font-weight="bold"
         fill="#58a6ff"
         opacity="0">
-    munazimbhat@github:~$ whoami
+    munazimashraf@github:~$ whoami
     <animate attributeName="opacity"
              from="0" to="1"
              begin="0.00s"

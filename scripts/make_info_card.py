@@ -17,7 +17,7 @@ OUT = os.path.join(HERE, "..", "info-card.svg")
 WIDTH = 820
 HEIGHT = 700
 lines = [
-    ("prompt", "munazimbhat@github:~$ whoami"),
+    ("prompt", "munazimashraf@github:~$ whoami"),
     ("name", "Munazim Ashraf Bhat"),
     ("sep", "────────────────────────────────────────────"),
     ("label", "ROLE       "),
@@ -80,7 +80,7 @@ svg.append(f'''<svg xmlns="http://www.w3.org/2000/svg"
   <text x="76" y="22"
         font-family="monospace"
         font-size="12"
-        fill="#8b949e">munazimbhat@github</text>
+        fill="#8b949e">munazimashraf@github</text>
 ''')
 
 y = TOP

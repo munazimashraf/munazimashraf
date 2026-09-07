@@ -1,5 +1,5 @@
 """
-Fetch the public GitHub contribution calendar for munazimbhat.
+Fetch the public GitHub contribution calendar for munazimashraf.
 
 Output:
     data/contributions.json
@@ -16,7 +16,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-USERNAME = "munazimbhat"
+USERNAME = "munazimashraf"
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "data", "contributions.json")

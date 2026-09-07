@@ -1,7 +1,7 @@
 <div align="center">
 
 <h2>
-  <code>munazimbhat@github:~$ ./profile.sh</code>
+  <code>munazimashraf@github:~$ ./profile.sh</code>
 </h2>
 
 <p>
@@ -17,7 +17,7 @@
 <br><br>
 
 <h3>
-  <code>munazimbhat@github:~$ whoami</code>
+  <code>munazimashraf@github:~$ whoami</code>
 </h3>
 
 <table>
@@ -29,7 +29,7 @@
 <br>
 
 <h3>
-  <code>munazimbhat@github:~$ skills</code>
+  <code>munazimashraf@github:~$ skills</code>
 </h3>
 
 <p>
@@ -47,7 +47,7 @@
 <br>
 
 <h3>
-  <code>munazimbhat@github:~$ status</code>
+  <code>munazimashraf@github:~$ status</code>
 </h3>
 
 <pre>
