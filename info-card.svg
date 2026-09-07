@@ -1,0 +1,514 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="820"
+    height="700"
+    viewBox="0 0 820 700">
+
+  <rect width="100%" height="100%" rx="12"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+  <rect x="0" y="0" width="820" height="34"
+        rx="12"
+        fill="#161b22"/>
+
+  <circle cx="18" cy="17" r="5" fill="#ff5f56"/>
+  <circle cx="36" cy="17" r="5" fill="#ffbd2e"/>
+  <circle cx="54" cy="17" r="5" fill="#27c93f"/>
+
+  <text x="76" y="22"
+        font-family="monospace"
+        font-size="12"
+        fill="#8b949e">munazimbhat@github</text>
+
+
+  <text x="34" y="48"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#58a6ff"
+        opacity="0">
+    munazimbhat@github:~$ whoami
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.00s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="68"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#ffffff"
+        opacity="0">
+    Munazim Ashraf Bhat
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.08s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="88"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#30363d"
+        opacity="0">
+    ────────────────────────────────────────────
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.16s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="108"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+    ROLE       
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.24s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="128"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Penetration Tester
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.32s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="148"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+    FOCUS      
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.40s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="168"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Web Application Security
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.48s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="188"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+               
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.56s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="208"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Application Security
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.64s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="228"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+               
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.72s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="248"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Manual Security Testing
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.80s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="268"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+               
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.88s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="288"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Vulnerability Assessment
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="0.96s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="308"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+               
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.04s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="328"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Bug Bounty
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.12s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="348"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#30363d"
+        opacity="0">
+    ────────────────────────────────────────────
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.20s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="368"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+    TOOLS      
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.28s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="388"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Burp Suite • Kali Linux • Nmap
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.36s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="408"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+    KNOWLEDGE  
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.44s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="428"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    OWASP Top 10 • XSS • SQL Injection
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.52s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="448"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+               
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.60s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="468"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Bash • Network Security • Ethical Hacking
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.68s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="488"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#30363d"
+        opacity="0">
+    ────────────────────────────────────────────
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.76s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="508"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+    CURRENT    
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.84s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="528"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    M.Sc. Information Technology
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="1.92s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="548"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+               
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="2.00s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="568"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    IUST • 2026—2028
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="2.08s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="588"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#30363d"
+        opacity="0">
+    ────────────────────────────────────────────
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="2.16s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="608"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+    STATUS     
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="2.24s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="628"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Hunting bugs. Building security knowledge.
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="2.32s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="648"
+        font-family="monospace"
+        font-size="15"
+        font-weight="bold"
+        fill="#7ee787"
+        opacity="0">
+               
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="2.40s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <text x="34" y="668"
+        font-family="monospace"
+        font-size="15"
+        font-weight="normal"
+        fill="#c9d1d9"
+        opacity="0">
+    Breaking apps safely.
+    <animate attributeName="opacity"
+             from="0" to="1"
+             begin="2.48s"
+             dur="0.25s"
+             fill="freeze"/>
+  </text>
+
+
+  <rect x="224" y="655"
+        width="9" height="17"
+        fill="#7ee787">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="0.9s"
+             repeatCount="indefinite"/>
+  </rect>
+
+</svg>

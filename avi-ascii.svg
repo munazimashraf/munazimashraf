@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="600"
+    height="530"
+    viewBox="0 0 600 530">
+
+<rect width="100%" height="100%" fill="white"/>
+
+<style>
+.ascii {
+    font-family: "Courier New", monospace;
+    font-size: 10px;
+    font-weight: 600;
+    fill: #111;
+    white-space: pre;
+}
+
+.reveal {
+    animation-name: reveal;
+    animation-duration: 0.8s;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+@keyframes reveal {
+    from {
+        clip-path: inset(0 100% 0 0);
+    }
+    to {
+        clip-path: inset(0 0 0 0);
+    }
+}
+</style>
+<text
+    x="0"
+    y="10"
+    class="ascii reveal"
+    style="animation-delay: 0.000s">                                                                                                    </text>
+<text
+    x="0"
+    y="20"
+    class="ascii reveal"
+    style="animation-delay: 0.055s">                                                                                                    </text>
+<text
+    x="0"
+    y="30"
+    class="ascii reveal"
+    style="animation-delay: 0.110s">                                                                                                    </text>
+<text
+    x="0"
+    y="40"
+    class="ascii reveal"
+    style="animation-delay: 0.165s">                                                                                                    </text>
+<text
+    x="0"
+    y="50"
+    class="ascii reveal"
+    style="animation-delay: 0.220s">                                                                                                    </text>
+<text
+    x="0"
+    y="60"
+    class="ascii reveal"
+    style="animation-delay: 0.275s">                                                                                                    </text>
+<text
+    x="0"
+    y="70"
+    class="ascii reveal"
+    style="animation-delay: 0.330s">                                                                                                    </text>
+<text
+    x="0"
+    y="80"
+    class="ascii reveal"
+    style="animation-delay: 0.385s">                                              `:=-:`:-`                                             </text>
+<text
+    x="0"
+    y="90"
+    class="ascii reveal"
+    style="animation-delay: 0.440s">                                            .:+ccc==**+:.                                           </text>
+<text
+    x="0"
+    y="100"
+    class="ascii reveal"
+    style="animation-delay: 0.495s">                                          .=++**sss#ccc*-.                                          </text>
+<text
+    x="0"
+    y="110"
+    class="ascii reveal"
+    style="animation-delay: 0.550s">                                         .-+*ccc*==+*ccc+:.                                         </text>
+<text
+    x="0"
+    y="120"
+    class="ascii reveal"
+    style="animation-delay: 0.605s">                                        .=*css+`:.  `=*cc*-                                         </text>
+<text
+    x="0"
+    y="130"
+    class="ascii reveal"
+    style="animation-delay: 0.660s">                                       `=*sss:.      `:-cs+                                         </text>
+<text
+    x="0"
+    y="140"
+    class="ascii reveal"
+    style="animation-delay: 0.715s">                                       `+sss+..`=-. -*+-+s=                                         </text>
+<text
+    x="0"
+    y="150"
+    class="ascii reveal"
+    style="animation-delay: 0.770s">                                       .+s##=:+**+``++**=c`                                         </text>
+<text
+    x="0"
+    y="160"
+    class="ascii reveal"
+    style="animation-delay: 0.825s">                                        :s#c``-=-:..--=---                                          </text>
+<text
+    x="0"
+    y="170"
+    class="ascii reveal"
+    style="animation-delay: 0.880s">                                         ++=.    .  `. .`-.                                         </text>
+<text
+    x="0"
+    y="180"
+    class="ascii reveal"
+    style="animation-delay: 0.935s">                                         ````.  .```:`..::.                                         </text>
+<text
+    x="0"
+    y="190"
+    class="ascii reveal"
+    style="animation-delay: 0.990s">                                          ..::```-+++-::-`.                                         </text>
+<text
+    x="0"
+    y="200"
+    class="ascii reveal"
+    style="animation-delay: 1.045s">                                          .`--:-==--=++-=:                                          </text>
+<text
+    x="0"
+    y="210"
+    class="ascii reveal"
+    style="animation-delay: 1.100s">                                           :===-:-++=:-+=                                           </text>
+<text
+    x="0"
+    y="220"
+    class="ascii reveal"
+    style="animation-delay: 1.155s">                                          `+****-::-:-*+`                                           </text>
+<text
+    x="0"
+    y="230"
+    class="ascii reveal"
+    style="animation-delay: 1.210s">                                          +c*csc*+==+*+.                                            </text>
+<text
+    x="0"
+    y="240"
+    class="ascii reveal"
+    style="animation-delay: 1.265s">                                         `=cccsccsssc+=.                                            </text>
+<text
+    x="0"
+    y="250"
+    class="ascii reveal"
+    style="animation-delay: 1.320s">                                       .--+sssss+++=::cc-                                           </text>
+<text
+    x="0"
+    y="260"
+    class="ascii reveal"
+    style="animation-delay: 1.375s">                                     `-++ccsss#sc=--:=#ss+.                                         </text>
+<text
+    x="0"
+    y="270"
+    class="ascii reveal"
+    style="animation-delay: 1.430s">                                  .:=++++*ccss##s*---c#sssc-                                        </text>
+<text
+    x="0"
+    y="280"
+    class="ascii reveal"
+    style="animation-delay: 1.485s">                                .-+********ccs####c+=s##sss+                                        </text>
+<text
+    x="0"
+    y="290"
+    class="ascii reveal"
+    style="animation-delay: 1.540s">                               .+ccccccc***cccss##scsc##sss-                                        </text>
+<text
+    x="0"
+    y="300"
+    class="ascii reveal"
+    style="animation-delay: 1.595s">                              `*sssssccccc**cccsss*+**csssssc=                                      </text>
+<text
+    x="0"
+    y="310"
+    class="ascii reveal"
+    style="animation-delay: 1.650s">                             .*ssssssssscccccccss#s*+**sscccsc.                                     </text>
+<text
+    x="0"
+    y="320"
+    class="ascii reveal"
+    style="animation-delay: 1.705s">                             =ssssssssssscccccss####*+*c#sccsc.                                     </text>
+<text
+    x="0"
+    y="330"
+    class="ascii reveal"
+    style="animation-delay: 1.760s">                            `cccssssssssssccccsss####c*c#sccsc                                      </text>
+<text
+    x="0"
+    y="340"
+    class="ascii reveal"
+    style="animation-delay: 1.815s">                            -ccccsssssssssscccssss####c*s#scsc                                      </text>
+<text
+    x="0"
+    y="350"
+    class="ascii reveal"
+    style="animation-delay: 1.870s">                            -ccccsssssssssscccsssss###s*c#sssc                                      </text>
+<text
+    x="0"
+    y="360"
+    class="ascii reveal"
+    style="animation-delay: 1.925s">                            =scssssssssssssccccscsss###scs#ssc                                      </text>
+<text
+    x="0"
+    y="370"
+    class="ascii reveal"
+    style="animation-delay: 1.980s">                           .cscssssssssssssscccccccss###sc#sss`                                     </text>
+<text
+    x="0"
+    y="380"
+    class="ascii reveal"
+    style="animation-delay: 2.035s">                           `ssssssssssssss#sccccccccss###ss#ss+                                     </text>
+<text
+    x="0"
+    y="390"
+    class="ascii reveal"
+    style="animation-delay: 2.090s">                           `cscsssssssssss#sscccccccssss##s##sc.                                    </text>
+<text
+    x="0"
+    y="400"
+    class="ascii reveal"
+    style="animation-delay: 2.145s">                           :sscssssssssss##sscccccccccss##ss#sc-                                    </text>
+<text
+    x="0"
+    y="410"
+    class="ascii reveal"
+    style="animation-delay: 2.200s">                           -scsssssssssss##sscccccccccsss##s##s+                                    </text>
+<text
+    x="0"
+    y="420"
+    class="ascii reveal"
+    style="animation-delay: 2.255s">                           +scsssssssssss###ssccccccssssss#ss#sc.                                   </text>
+<text
+    x="0"
+    y="430"
+    class="ascii reveal"
+    style="animation-delay: 2.310s">                           *ccsssssssssss###ssscccccsssssss#s##s-                                   </text>
+<text
+    x="0"
+    y="440"
+    class="ascii reveal"
+    style="animation-delay: 2.365s">                          .*cssssssssscss###ssscccccsssssss#s##sc.                                  </text>
+<text
+    x="0"
+    y="450"
+    class="ascii reveal"
+    style="animation-delay: 2.420s">                          `cs#ssssssssss#####sssccccssssssss#s##s-                                  </text>
+<text
+    x="0"
+    y="460"
+    class="ascii reveal"
+    style="animation-delay: 2.475s">                          -ssssssscss#s#####ssssccccsssssccs#s##s*                                  </text>
+<text
+    x="0"
+    y="470"
+    class="ascii reveal"
+    style="animation-delay: 2.530s">                          =ssssssssssss###s##ssssccccsssssssss##sc:                                 </text>
+<text
+    x="0"
+    y="480"
+    class="ascii reveal"
+    style="animation-delay: 2.585s">                          c#ssssss#s##ssssss##sssscccssssssssss#ss+                                 </text>
+<text
+    x="0"
+    y="490"
+    class="ascii reveal"
+    style="animation-delay: 2.640s">                         .cscss##sssssss#sss##ssssccccsssss*css##sc.                                </text>
+<text
+    x="0"
+    y="500"
+    class="ascii reveal"
+    style="animation-delay: 2.695s">                         .csss#sssssssss##ss##ssssscccsssssccss##ss-                                </text>
+<text
+    x="0"
+    y="510"
+    class="ascii reveal"
+    style="animation-delay: 2.750s">                          =s###sssssssscs##ssssssssccssssssssss##ssc.                               </text>
+<text
+    x="0"
+    y="520"
+    class="ascii reveal"
+    style="animation-delay: 2.805s">                          .*sssssssssssssss#s##ssssccssssssssss##sss-                               </text>
+<text
+    x="0"
+    y="530"
+    class="ascii reveal"
+    style="animation-delay: 2.860s">                           .+ssssssssssssss######ssscssssssssss##sss*.                              </text>
+</svg>
