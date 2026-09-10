@@ -99,7 +99,7 @@
         font-size="13"
         fill="#8b949e"
         text-anchor="end"
-    >35 contributions in the last year</text>
+    >36 contributions in the last year</text>
 
         <text
             x="24"
@@ -6111,9 +6111,9 @@
                     width="12"
                     height="12"
                     rx="2"
-                    fill="#161b22"
+                    fill="#0e4429"
                 >
-                    <title>No contributions on 2026-09-09</title>
+                    <title>1 contribution on 2026-09-09</title>
                 </rect>
             </g>
             
